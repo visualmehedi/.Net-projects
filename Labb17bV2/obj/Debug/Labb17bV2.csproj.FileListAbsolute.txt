@@ -1,0 +1,37 @@
+c:\users\mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\bin\Debug\Labb17bV2.exe.config
+c:\users\mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.csprojResolveAssemblyReference.cache
+c:\users\mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\MainWindow.baml
+c:\users\mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\MainWindow.g.cs
+c:\users\mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\App.g.cs
+c:\users\mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2_MarkupCompile.cache
+c:\users\mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.g.resources
+c:\users\mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.Properties.Resources.resources
+c:\users\mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.csproj.GenerateResource.Cache
+C:\Users\Mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\bin\Debug\Labb17bV2.exe
+C:\Users\Mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\bin\Debug\Labb17bV2.pdb
+C:\Users\Mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\bin\Debug\EntityFramework.dll
+C:\Users\Mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\bin\Debug\EntityFramework.xml
+C:\Users\Mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.exe
+C:\Users\Mukta\documents\visual studio 2013\Projects\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.pdb
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\bin\Debug\Labb17bV2.exe.config
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.exe
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.pdb
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\bin\Debug\Labb17bV2.exe
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\bin\Debug\Labb17bV2.pdb
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\bin\Debug\EntityFramework.dll
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\bin\Debug\EntityFramework.SqlServer.dll
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\bin\Debug\EntityFramework.xml
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\bin\Debug\EntityFramework.SqlServer.xml
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.csprojResolveAssemblyReference.cache
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\MainWindow.baml
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\MainWindow.g.cs
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\App.g.cs
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2_MarkupCompile.cache
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.g.resources
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.Properties.Resources.resources
+D:\forGithub\projects_20150515\projects_20150515\Visual Studio 2013\Projects\YSYS-.NetProgVerktyg\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.csproj.GenerateResource.Cache
+D:\GitRepo\Labb17bV2\Labb17bV2\bin\Debug\Labb17bV2.exe.config
+D:\GitRepo\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.exe
+D:\GitRepo\Labb17bV2\Labb17bV2\obj\Debug\Labb17bV2.pdb
